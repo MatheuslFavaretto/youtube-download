@@ -2,7 +2,7 @@
 
 
 # Descrição
-Um script com funcionalidade de demosntara a utilização da biblioteca Pytybe.
+Um script com funcionalidade de demosntara a utilização da biblioteca Pytube.
 
 - download de videos youtbue de maneira facil e simplificada
 
